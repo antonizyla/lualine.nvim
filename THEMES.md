@@ -114,7 +114,7 @@ The following example is using the `tomorrow-night` colorscheme:
 It's a combination of gruvbox_light and gruvbox_dark. It loads either of
 them based you your `background` option.
 
-### gruvbox-material
+### gruvbox_material
 
 <p>
 <img width='700' src='https://user-images.githubusercontent.com/41551030/108648725-3f52d980-74bc-11eb-8fa5-a77b0a21cdea.png'/>
